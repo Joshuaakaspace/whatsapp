@@ -1,7 +1,6 @@
 import streamlit as st
 #import cv2
 import pywhatkit as kit
-export DISPLAY=:0
 
 
 def main():
