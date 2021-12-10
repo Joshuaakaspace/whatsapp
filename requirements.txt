@@ -1,0 +1,3 @@
+opencv_python==4.5.4.60
+pywhatkit==5.2
+streamlit==0.84.1
