@@ -1,9 +1,7 @@
 import streamlit as st
 #import cv2
 import pywhatkit as kit
-import os
-
-os.environ['DISPLAY'] = ':0'
+export DISPLAY=:0
 
 
 def main():
